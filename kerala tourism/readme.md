@@ -1,0 +1,1 @@
+An interactive kerala tourism dashboard built in microsoft excel to analyze tourism performance across kerala districts.The dashboard provides insights into revenue,tourists arrivals,seasonal trends,hotel performance and district-wise performance using interactive visualizations.
